@@ -4,11 +4,12 @@ title: About
 permalink: /about
 ---
 
-[//]: <> (# About)
 
-[//]: <> (@(Personal)[About])
+[comment]: # (# About)
 
-<p style='text-align: justify;'>
+
+[comment]: # (@(Personal)[About])
+
 
 I received my B.Sc. degree in Computer Information Systems and my M.Sc. degree in Computer Science from the University of São Paulo in 2009 and 2011, respectively, where I also received my Ph.D. in Computer Science in 2015. I was associated with BioCom (Laboratório de Computação Bioinspirada) and LAPaD (Laboratório de Análise de Padrões em Dados) in the Institute of Mathematics and Computer Sciences (ICMC), University of São Paulo (USP) at São Carlos/Brazil.
 
@@ -27,6 +28,4 @@ Because of my [research](https://bv.fapesp.br/pt/auxilios/99479/deteccao-de-padr
 For more information on my research and teaching please visit my CV Lattes (in Portuguese) or access the links below:
 
 [![Alt text](/assets/image/icU.jpg)](https://unesp.br/portaldocentes/docentes/353524/repositorio)   [![Alt text](/assets/image/icFAP.jpg)](https://bv.fapesp.br/pt/pesquisador/80179/luiz-fernando-sommaggio-coletta)   [![Alt text](/assets/image/icG.png)](https://scholar.google.com/citations?user=rt8u0ZsAAAAJ&hl=pt-BR&oi=ao)   [![Alt text](/assets/image/icSC.png)](https://www.scopus.com/authid/detail.uri?authorId=50861102400)   [![Alt text](/assets/image/icOR.png)](https://orcid.org/0000-0002-4542-8591)   [![Alt text](/assets/image/icRG.png)](https://www.researchgate.net/profile/Luiz-Coletta)   [![Alt text](/assets/image/icLINKD.png)](https://www.linkedin.com/in/luiz-coletta/)
-
-</p>
 
