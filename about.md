@@ -14,7 +14,7 @@ Since 2016, I have been with the School of Sciences and Engineering (FCE) of the
 
 I won 1st place in the X Competition of Thesis and Dissertations in Artificial and Computational Intelligence at the 5th Brazilian Conference on Intelligent System (BRACIS 2016).
 
-![Alt text](https://github.com/luizcoletta/luizcoletta.github.io/blob/main/assets/image/404.jpg)
+![Alt text](/assets/image/404.jpg)
 
 My main interests are in Machine Learning (e.g., Semi-supervised Learning, Ensembles, Classification, and Clustering), including those Bio-inspired Computing techniques (e.g., Evolutionary and Genetic Algorithms, and shallow/deep Artificial Neural Networks: MLPs, CNNs, GANs, etc.), Computer Vision, and Data Science (Predictive Analytics, Big Data, etc.).
 
