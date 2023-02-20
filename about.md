@@ -20,9 +20,9 @@ My main interests are in Machine Learning (e.g., Semi-supervised Learning, Ensem
 
 Because of my [research](https://bv.fapesp.br/pt/auxilios/99479/deteccao-de-padroes-em-plantacoes-a-partir-da-combinacao-de-classificadores-e-agrupadores-de-dados/) on Agriculture 4.0/5.0 involving crop monitoring for threat detection, I have become a drone pilot!
 
-![Alt text](./about5-768x243.png)
+![Alt text](/assets/image/about5-768x243.png)
 
 For more information on my research and teaching please visit my CV Lattes (in Portuguese) or access the links below:
 
-[![Alt text](./icU.jpg)](https://unesp.br/portaldocentes/docentes/353524/repositorio)   [![Alt text](./icFAP.jpg)](https://bv.fapesp.br/pt/pesquisador/80179/luiz-fernando-sommaggio-coletta)   [![Alt text](./icG.png)](https://scholar.google.com/citations?user=rt8u0ZsAAAAJ&hl=pt-BR&oi=ao)   [![Alt text](./icSC.png)](https://www.scopus.com/authid/detail.uri?authorId=50861102400)   [![Alt text](./icOR.png)](https://orcid.org/0000-0002-4542-8591)   [![Alt text](./icRG.png)](https://www.researchgate.net/profile/Luiz-Coletta)   [![Alt text](./icLINKD.png)](https://www.linkedin.com/in/luiz-coletta/)
+[![Alt text](/assets/image/icU.jpg)](https://unesp.br/portaldocentes/docentes/353524/repositorio)   [![Alt text](/assets/image/icFAP.jpg)](https://bv.fapesp.br/pt/pesquisador/80179/luiz-fernando-sommaggio-coletta)   [![Alt text](/assets/image/icG.png)](https://scholar.google.com/citations?user=rt8u0ZsAAAAJ&hl=pt-BR&oi=ao)   [![Alt text](/assets/image/icSC.png)](https://www.scopus.com/authid/detail.uri?authorId=50861102400)   [![Alt text](/assets/image/icOR.png)](https://orcid.org/0000-0002-4542-8591)   [![Alt text](/assets/image/icRG.png)](https://www.researchgate.net/profile/Luiz-Coletta)   [![Alt text](/assets/image/icLINKD.png)](https://www.linkedin.com/in/luiz-coletta/)
 
