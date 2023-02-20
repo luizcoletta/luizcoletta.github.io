@@ -1,0 +1,17 @@
+
+*** These modified files were found in JOE when it aborted on Mon Feb 20 12:02:55 2023
+*** JOE was aborted by UNIX signal 1
+
+*** File '* Build Log *'
+/bin/sh: 3: Syntax error: ")" unexpected
+
+*** File '(Unnamed)'
+/mnt/Storage/Mega/MyFiles/Research/PROJECTS/2022-MLEXP/Website/mlexplicado.github.io/.git/MERGE_MSG
+/mnt/Storage/Mega/MyFiles/Research/PROJECTS/2023-DV-Site-LuizColetta/Website/luizcoletta.github.io/.git/MERGE_MSG
+* Build Log *
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc

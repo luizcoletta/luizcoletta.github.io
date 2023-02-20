@@ -4,13 +4,6 @@ title: About
 permalink: /about
 ---
 
-
-[comment]: # (# About)
-
-
-[comment]: # (@(Personal)[About])
-
-
 I received my B.Sc. degree in Computer Information Systems and my M.Sc. degree in Computer Science from the University of São Paulo in 2009 and 2011, respectively, where I also received my Ph.D. in Computer Science in 2015. I was associated with BioCom (Laboratório de Computação Bioinspirada) and LAPaD (Laboratório de Análise de Padrões em Dados) in the Institute of Mathematics and Computer Sciences (ICMC), University of São Paulo (USP) at São Carlos/Brazil.
 
 Since 2016, I have been with the School of Sciences and Engineering (FCE) of the São Paulo State University (UNESP/Tupã), where I am currently as an Associate Professor at Biosystems Engineering Department (DEB). Currently, I am a member of the laboratory SINACI ([Sistemas Não-Clássicos Aplicados à Computação Inteligente](http://www.sinaci.com.br/)) and the [Hub for Artificial Intelligence and Cognitive Architectures](https://hiaac.unicamp.br/en/) (H.IAAC), where I’m working on the line of learning in Cognitive Architectures.
