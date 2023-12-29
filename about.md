@@ -4,17 +4,19 @@ title: About
 permalink: /about
 ---
 
-I received my B.Sc. degree in Computer Information Systems and my M.Sc. degree in Computer Science from the University of São Paulo in 2009 and 2011, respectively, where I also received my Ph.D. in Computer Science in 2015. I was associated with BioCom (Laboratório de Computação Bioinspirada) and LAPaD (Laboratório de Análise de Padrões em Dados) in the Institute of Mathematics and Computer Sciences (ICMC), University of São Paulo (USP) at São Carlos/Brazil.
+I am a data scientist and researcher dealing with theoretical and applied problems of Artificial Intelligence (AI) and Machine Learning (ML). For over 14 years, I have been researching and developing AI/ML methods and algorithms for areas such as Sentiment Analysis, Computer Vision, Predictive Analytics, and Natural Language Processing (NLP). I have published my work in prestigious journals, such as IEEE Transactions on Fuzzy Systems, Elsevier Information Sciences, ACM Computing Surveys, and Elsevier Neurocomputing.
 
-Since 2016, I have been with the School of Sciences and Engineering (FCE) of the São Paulo State University (UNESP/Tupã), where I am currently as an Associate Professor at Biosystems Engineering Department (DEB). Currently, I am a member of the laboratory SINACI ([Sistemas Não-Clássicos Aplicados à Computação Inteligente](http://www.sinaci.com.br/)) and the [Hub for Artificial Intelligence and Cognitive Architectures](https://hiaac.unicamp.br/en/) (H.IAAC), where I’m working on the line of learning in Cognitive Architectures.
+I joined OCTO Research Office at Dell in 2022 and, since then, I have conducted several research studies and projects based on cutting-edge AI/ML techniques. Most of them involve topics such as Anomaly/Novelty Detection, AI Reasoning, Continual Learning, Federated Learning, Data Fusion, Edge Intelligence, and Language Models.
 
-I won 1st place in the X Competition of Thesis and Dissertations in Artificial and Computational Intelligence at the 5th Brazilian Conference on Intelligent System (BRACIS 2016).
+Previously, I was Associate Professor at School of Sciences and Engineering (FCE) of the São Paulo State University (UNESP/Tupã) and was with the Electrical Engineering Graduate program (PPGEE/UNESP/Sorocaba-SJBV), in both I advised students in different research areas and taught courses. I was a member of [H.IAAC - Artificial Intelligence and Cognitive Architectures Hub](https://hiaac.unicamp.br/en/) - based at the State University of Campinas (UNICAMP), where I researched on Learning in Cognitive Architectures.
+
+In 2016, I won 1st place in the X Competition of Thesis and Dissertations in Artificial and Computational Intelligence at the 5th Brazilian Conference on Intelligent System (BRACIS 2016). Before, I completed my Ph.D. in Computer Science in 2015 at Institute of Mathematics and Computer Sciences (ICMC) of the University of Sao Paulo (USP), São Carlos/Brazil, where I also received my M.Sc. degree in Computer Science in 2011, and my B.Sc. degree in Computer Information Systems in 2009.
 
 ![Alt text](/assets/image/about4.png)
 
-My main interests are in Machine Learning (e.g., Semi-supervised Learning, Ensembles, Classification, and Clustering), including those Bio-inspired Computing techniques (e.g., Evolutionary and Genetic Algorithms, and shallow/deep Artificial Neural Networks: MLPs, CNNs, GANs, etc.), Computer Vision, and Data Science (Predictive Analytics, Big Data, etc.).
+My main interests are in Machine Learning (e.g., Semi-supervised Learning, Ensembles, Classification, and Clustering), including those Bio-inspired Computing techniques (e.g., Evolutionary and Genetic Algorithms, and shallow/deep Artificial Neural Networks: MLPs, CNNs, GANs, Transformers, etc.), Sentiment Analysis, Computer Vision, Predictive Analytics, Natural Language Processing (NLP), and Large Language Models.
 
-Because of my [research](https://bv.fapesp.br/pt/auxilios/99479/deteccao-de-padroes-em-plantacoes-a-partir-da-combinacao-de-classificadores-e-agrupadores-de-dados/) on Agriculture 4.0/5.0 involving crop monitoring for threat detection, I have become a drone pilot!
+Because of my [previous research](https://bv.fapesp.br/pt/auxilios/99479/deteccao-de-padroes-em-plantacoes-a-partir-da-combinacao-de-classificadores-e-agrupadores-de-dados/) on Agriculture 4.0/5.0, involving crop monitoring for threat detection, I have become a drone pilot!
 
 ![Alt text](/assets/image/about5-768x243.png)
 
