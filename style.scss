@@ -116,11 +116,6 @@ strong, b {
   font-weight: bold;
 }
 
-img, .darkmode-ignore {
-  isolation: isolate;
-  display: block;
-}
-
 img {
   max-width: 100%;
   height: auto;
@@ -619,6 +614,15 @@ footer {
     margin: 0;
     padding: 0;
   }
+}
+
+// My CSS
+img[src*='#center'] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none !important;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
