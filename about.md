@@ -12,7 +12,7 @@ Previously, I was Associate Professor at School of Sciences and Engineering (FCE
 
 In 2016, I won 1st place in the X Competition of Thesis and Dissertations in Artificial and Computational Intelligence at the 5th Brazilian Conference on Intelligent System (BRACIS 2016). I completed my Ph.D. in Computer Science in 2015 at Institute of Mathematics and Computer Sciences (ICMC) of the University of Sao Paulo (USP), São Carlos/Brazil, where I also received my M.Sc. degree in Computer Science in 2011, and my B.Sc. degree in Computer Information Systems in 2009.
 
-![Alt text](/assets/image/about4.png)
+![Alt text](/assets/image/about4.png#center)
 
 My main interests are in Machine Learning (e.g., Semi-supervised Learning, Ensembles, Classification, and Clustering), including those Bio-inspired Computing techniques (e.g., Evolutionary and Genetic Algorithms, Metaheuristics, and shallow/deep Artificial Neural Networks: MLPs, CNNs, GANs, Transformers, etc.).
 
