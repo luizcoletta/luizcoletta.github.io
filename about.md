@@ -22,12 +22,6 @@ Because of my [previous academic research](https://bv.fapesp.br/pt/auxilios/9947
 
 For more information on my research and teaching please visit my CV Lattes (in Portuguese) or access the links below:
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <center>
 
 |          |         |         |          |          |          |          |
