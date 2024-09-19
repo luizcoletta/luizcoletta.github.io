@@ -22,9 +22,9 @@ Because of my [previous academic research](https://bv.fapesp.br/pt/auxilios/9947
 
 For more information on my research and teaching please visit my CV Lattes (in Portuguese) or access the links below:
 
-[BV-FAPESP](https://bv.fapesp.br/pt/pesquisador/80179/luiz-fernando-sommaggio-coletta) - 
-[Google Scholar](https://scholar.google.com/citations?user=rt8u0ZsAAAAJ&hl=pt-BR&oi=ao) - 
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=50861102400) - 
-[ORCID](https://orcid.org/0000-0002-4542-8591) - 
-[Research Gate](https://www.researchgate.net/profile/Luiz-Coletta) - 
-[LinkedIn](https://www.linkedin.com/in/luiz-coletta/)
+<a href="https://bv.fapesp.br/pt/pesquisador/80179/luiz-fernando-sommaggio-coletta" target="_blank">BV-FAPESP</a> - 
+<a href="https://scholar.google.com/citations?user=rt8u0ZsAAAAJ&hl=pt-BR&oi=ao" target="_blank">Google Scholar</a> - 
+<a href="https://www.scopus.com/authid/detail.uri?authorId=50861102400" target="_blank">Scopus</a> - 
+<a href="https://orcid.org/0000-0002-4542-8591" target="_blank">ORCID</a> - 
+<a href="https://www.researchgate.net/profile/Luiz-Coletta" target="_blank">Research Gate</a> - 
+<a href="https://www.linkedin.com/in/luiz-coletta/" target="_blank">LinkedIn</a>
