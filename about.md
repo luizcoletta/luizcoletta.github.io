@@ -22,17 +22,9 @@ Because of my [previous academic research](https://bv.fapesp.br/pt/auxilios/9947
 
 For more information on my research and teaching please visit my CV Lattes (in Portuguese) or access the links below:
 
-<<<<<<< HEAD
 [BV-FAPESP](https://bv.fapesp.br/pt/pesquisador/80179/luiz-fernando-sommaggio-coletta)
 [Google Scholar](https://scholar.google.com/citations?user=rt8u0ZsAAAAJ&hl=pt-BR&oi=ao)
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=50861102400)
 [ORCID](https://orcid.org/0000-0002-4542-8591)
 [Research Gate](https://www.researchgate.net/profile/Luiz-Coletta)
 [LinkedIn](https://www.linkedin.com/in/luiz-coletta/)
-=======
-
-| [![Alt text](/assets/image/icU.jpg#center)](https://unesp.br/portaldocentes/docentes/353524/repositorio) | [![Alt text](/assets/image/icFAP.jpg#center)](https://bv.fapesp.br/pt/pesquisador/80179/luiz-fernando-sommaggio-coletta) | [![Alt text](/assets/image/icG.png#center)](https://scholar.google.com/citations?user=rt8u0ZsAAAAJ&hl=pt-BR&oi=ao) | [![Alt text](/assets/image/icSC.png#center)](https://www.scopus.com/authid/detail.uri?authorId=50861102400) | [![Alt text](/assets/image/icOR.png#center)](https://orcid.org/0000-0002-4542-8591) | [![Alt text](/assets/image/icRG.png#center)](https://www.researchgate.net/profile/Luiz-Coletta) | [![Alt text](/assets/image/icLINKD.png#center)](https://www.linkedin.com/in/luiz-coletta/)
-|-|-|-|-|-|-|-|
-| | | | | | | |
-
->>>>>>> ad668cd9f97eb1aeccf58d465fde99db3b6e3154
