@@ -1,0 +1,1 @@
+pandoc -t markdown_strict --csl=ieee.csl --citeproc sample.md -o pandoc-bib-test-output.md --bibliography conferences.bib 
