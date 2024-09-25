@@ -1,1 +1,4 @@
-pandoc -t markdown_strict --csl=ieee.csl --citeproc sample.md -o pandoc-bib-test-output.md --bibliography conferences.bib 
+pandoc -t markdown_strict --csl=ieee.csl --citeproc sample.md -o conferences.md --bibliography conferences.bib
+pandoc -t markdown_strict --csl=ieee.csl --citeproc sample.md -o journals.md --bibliography journals.bib
+pandoc -t markdown_strict --csl=ieee.csl --citeproc sample.md -o book_chapters.md --bibliography book_chapters.bib
+pandoc -t markdown_strict --csl=ieee.csl --citeproc sample.md -o others.md --bibliography others.bib
