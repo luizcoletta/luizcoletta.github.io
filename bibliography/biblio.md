@@ -130,7 +130,7 @@ intelligence (DCAI’11)*, vol. 91, Springer Berlin/Heidelberg, 2011, pp.
 133–140.</span>
 
 <span class="csl-left-margin">\[1\]
-</span><span class="csl-right-inline">L. F. S. Coletta, E. Hruschka, T.
+</span><span class="csl-right-inline" target="_blank">L. F. S. Coletta, E. Hruschka, T.
 Covoes, and R. Campello, “[Fuzzy clustering-based
 filter](https://doi.org/10.1007/978-3-642-14055-6_42),” in *Information
 processing and management of uncertainty in knowledge-based systems.
