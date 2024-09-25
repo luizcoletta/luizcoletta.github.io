@@ -1,3 +1,10 @@
+
+---
+layout: page
+title: Publications
+permalink: /publications
+---
+
 ## Journals
 
 <span class="csl-left-margin">\[9\]
