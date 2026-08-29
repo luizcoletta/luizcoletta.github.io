@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+justify: true
 ---
 
 ### Step 1) Fork Reverie to your User Repository

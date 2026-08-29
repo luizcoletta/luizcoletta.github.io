@@ -88,6 +88,12 @@ p {
   margin: 15px 0;
 }
 
+/* Justify page content when requested in front matter */
+.entry.justified {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 table {
 	padding: 0;
 }

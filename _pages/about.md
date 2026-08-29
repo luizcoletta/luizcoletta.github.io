@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+justify: true
 ---
 
 I am a data scientist and AI/ML researcher, working on both theoretical and applied problems in Artificial Intelligence and Machine Learning. For more than 14 years, I have been developing methods and algorithms in areas such as Sentiment Analysis, Computer Vision, Predictive Analytics, and Natural Language Processing (NLP). My research has been published in leading journals, including IEEE Transactions on Fuzzy Systems, Elsevier Information Sciences, ACM Computing Surveys, and Elsevier Neurocomputing.

@@ -2,6 +2,7 @@
 layout: page
 title: Search
 permalink: /search/
+justify: true
 ---
 
 <div id="search-container">
