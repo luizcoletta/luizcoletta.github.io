@@ -128,7 +128,7 @@ justify: true
 
 <div class="mermaid">
 flowchart TD
-    subgraph Phase1["🔬 Undergraduate & Graduate Research (2009-2015)"]
+    subgraph Phase1["🔬 Undergraduate & Graduate Research at USP (2009-2015)"]
         direction TB
         A["Fuzzy Clustering and Feature Selection (2009-2010)"] --> B["Distributed / Collaborative Clustering (2011-2012)"]
         B --> C["Classifier + Cluster Ensembles (2013-2015)"]
