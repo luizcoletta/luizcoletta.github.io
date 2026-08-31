@@ -5,198 +5,137 @@ permalink: /publications/
 justify: true
 ---
 
-## 2022
+## Journal Articles
 
-### <a href="https://doi.org/10.1016/j.compag.2022.106901" target="_blank">Novelty detection in UAV images to identify emerging threats in eucalyptus crops</a>
+### 2022
+1. [Novelty detection in UAV images to identify emerging threats in eucalyptus crops](https://doi.org/10.1016/j.compag.2022.106901) - COLETTA, LUIZ F.S.; DE ALMEIDA, DOUGLAS C.; SOUZA, JEFFERSON R.; MANZIONE, RODRIGO L. *Computers and Electronics in Agriculture*, v. 196, p. 106901. **Citations: 9|14**
 
-**Topics:** `Novelty Detection` · `Active Learning` · `Semi-Supervised Learning` · `Computer Vision` · `UAV` · `Agriculture` · `Eucalyptus`
+2. [Visualization Tools for Monitoring and Debugging a Cognitive Architecture using CST](https://doi.org/10.1016/j.procs.2022.11.101) - MARQUES, ÁUREO; COLETTA, LUIZ; SILVA, ANDERSON; PARAENSE, ANDRÉ; BERTO, LETÍCIA; COSTA, PAULA; COLOMBINI, ESTHER; SIMÕES, ALEXANDRE; GUDWIN, RICARDO. *Procedia Computer Science*, v. 213, p. 528-535.
 
-### <a href="https://doi.org/10.1109/SBGAMES56371.2022.9961082" target="_blank">CST-Godot: Bridging the Gap Between Game Engines and Cognitive Agents</a>
+### 2021
+3. [Análise do Perfil Inovativo de Startups do Agronegócio](https://revista.unitins.br/index.php/humanidadeseinovacao/article/view/4587) - DONDA, M. M. S.; SANTINI PIGATTO, G. A.; SATOLO, E. G.; COLETTA, L. F. S. *Humanidades & Inovação*, v. 8, p. 231-250.
 
-**Topics:** `Cognitive Agents` · `Cognitive Architectures` · `Godot` · `Game Engines` · `Artificial Intelligence`
+### 2019
+4. [Combining clustering and active learning for the detection and learning of new image classes](https://doi.org/10.1016/j.neucom.2019.04.070) - COLETTA, LUIZ F.S.; PONTI, MOACIR; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. *Neurocomputing*, v. 358, p. 150-165. **Citations: 28|33**
 
-### <a href="https://doi.org/10.1016/j.procs.2022.11.101" target="_blank">Visualization Tools for Monitoring and Debugging a Cognitive Architecture using CST</a>
+5. [Automatic Recovery Estimation of Degraded Soils by Artificial Neural Networks in Function of Chemical and Physical Attributes in Brazilian Savannah Soil](https://doi.org/10.1080/00103624.2019.1635144) - BONINI NETO, A.; BONINI, C. S. B.; REIS, A. R.; PIAZENTIN, J. C.; COLETTA, L. F. S.; PUTTI, F. F.; HEINRICHS, R.; MOREIRA, A. *Communications in Soil Science and Plant Analysis*, v. 1, p. 1-14. **Citations: 10|9**
 
-**Topics:** `Cognitive Architectures` · `Visualization` · `Debugging` · `CST` · `Agent Development`
+6. [Aflatoxin detection on direction of the 4.0 age at 3.0 costs](https://doi.org/10.31686/ijier.Vol7.Iss7.1615) - MATULOVIC, MARIANA; JOSÉ DE OLIVEIRA MORAIS, FLÁVIO; VACARO DE SOUZA, ANGELA; AALEXANDRE DE AMORIM, CLEBER; FERNANDO SOMMAGGIO COLETTA, LUIZ. *International Journal for Innovation Education and Research*, v. 7, p. 338-346.
 
-## 2021
+### 2017
+7. [Artificial Neural Network for Classification and Analysis of Degraded Soils](https://doi.org/10.1109/TLA.2017.7867601) - BONINI NETO, A.; BONINI, C. S. B.; BISI, B. S.; COLETTA, L. F. S.; REIS, A. R. *Revista IEEE América Latina*, v. 15, p. 503-509. **Citations: 15|22**
 
-### <a href="https://revista.unitins.br/index.php/humanidadeseinovacao/article/view/4587" target="_blank">Analysis of the Innovation Profile of Agribusiness Startups</a>
+### 2016
+8. [Using unsupervised information to improve semi-supervised tweet sentiment classification](https://doi.org/10.1016/j.ins.2016.02.002) - DA SILVA, NÁDIA FELIX FELIPE; COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; HRUSCHKA JR., ESTEVAM R. *Information Sciences*, v. -, p. 1-18. **Citations: 47|68**
 
-**Topics:** `AgTech` · `Agribusiness` · `Innovation` · `Startups` · `Information and Communication Technologies`
+9. [A Survey and Comparative Study of Tweet Sentiment Analysis via Semi-Supervised Learning](https://doi.org/10.1145/2932708) - SILVA, NADIA FELIX F. DA; COLETTA, LUIZ F. S.; HRUSCHKA, EDUARDO R. *ACM Computing Surveys*, v. 49, p. 1-26. **Citations: 61|88**
 
-### <a href="https://periodicos.ufpb.br/index.php/pgc/article/view/60409" target="_blank">Knowledge Management in Agribusiness Startups</a>
+### 2015
+10. [A differential evolution algorithm to optimise the combination of classifier and cluster ensembles](https://doi.org/10.1504/IJBIC.2015.070120) - COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO RAUL; ACHARYA, AYAN; GHOSH, JOYDEEP. *International Journal of Bio-Inspired Computation (Online)*, v. 7, p. 111-124. **Citations: 15|17**
 
-**Topics:** `Knowledge Management` · `AgTech` · `Agribusiness` · `Innovation` · `Startups`
+11. [Using metaheuristics to optimize the combination of classifier and cluster ensembles](https://doi.org/10.3233/ICA-150485) - COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. *Integrated Computer-Aided Engineering*, v. 22, p. 229-242. **Citations: 29|31**
 
-### <a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Pattern Identification in Crops Using Aerial Images and Semi-Supervised Learning</a>
+### 2012
+12. [Collaborative Fuzzy Clustering Algorithms: Some Refinements and Design Guidelines](https://doi.org/10.1109/TFUZZ.2012.2185839) - COLETTA, L. F. S.; VENDRAMIN, L.; HRUSCHKA, E. R.; CAMPELLO, R. J. G. B.; PEDRYCZ, W. *IEEE Transactions on Fuzzy Systems*, v. 20, p. 444-462. **Citations: 73|83**
 
-**Topics:** `Computer Vision` · `UAV` · `Remote Sensing` · `Semi-Supervised Learning` · `Agriculture`
+---
 
-## 2019
+## Book Chapters
 
-### <a href="https://doi.org/10.1016/j.neucom.2019.04.070" target="_blank">Combining clustering and active learning for the detection and learning of new image classes</a>
+1. [Use of Neural Networks to Monitor the Recovery of Degraded Areas](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - BONINI NETO, A.; BONINI, C. S. B.; COLETTA, L. F. S.; COSTA, N. R.; REIS, A. R. In: FERRARI PUTTI, F.; LEON CASEMIRO DA SILVA, A.; ALMEIDA GABRIEL FILHO, L. R. (Org.). *Tecnologias em Agricultura Sustentável*. 1ed. Tupã: Associação Amigos da Natureza da Alta Paulista - ANAP, 2017, v. 1, p. 47-65.
 
-**Topics:** `Clustering` · `Active Learning` · `New Class Discovery` · `Computer Vision` · `Semi-Supervised Learning`
+---
 
-### <a href="https://doi.org/10.1080/00103624.2019.1635144" target="_blank">Automatic Recovery Estimation of Degraded Soils by Artificial Neural Networks in Function of Chemical and Physical Attributes in Brazilian Savannah Soil</a>
+## Papers in Conference Proceedings
 
-**Topics:** `Artificial Neural Networks` · `Soil Science` · `Degraded Soils` · `Agriculture` · `Machine Learning`
+### 2023
+1. [An Episode Tracker for Cognitive Architectures](https://doi.org/10.1007/978-3-031-42392-1_1) - SAKABE, E. Y.; SILVA, A. A.; COLETTA, LUIZ F. S.; SIMOES, A. S.; COLOMBINI, E. L.; COSTA, P. D. P.; GUDWIN, R. R. In: *14th Annual Meeting of the BICA Society*, 2023. Biologically Inspired Cognitive Architectures 2023 - Proceedings of the 14th Annual Meeting of the BICA Society, v. 1130, p. 1-8.
 
-### <a href="https://doi.org/10.31686/ijier.Vol7.Iss7.1615" target="_blank">Aflatoxin detection on direction of the 4.0 age at 3.0 costs</a>
+### 2022
+2. [CST-Godot: Bridging the Gap Between Game Engines and Cognitive Agents](https://doi.org/10.1109/SBGAMES56371.2022.9961082) - MORAIS, G.; LORON, I.; SILVA, A. A.; COLETTA, L. F. S.; SIMOES, A. S.; GUDWIN, R. R.; COSTA, P. D. P.; COLOMBINI, E. L. In: *SBGames*, 2022, Natal. Proceedings SBGames.
 
-**Topics:** `Aflatoxin` · `Industry 4.0` · `IoT` · `Machine Learning` · `Agriculture` · `Food Safety`
+3. [Visualization Tools for Monitoring and Debugging a Cognitive Architecture using CST](https://doi.org/10.1016/j.procs.2022.11.101) - MARQUES, A.; COLETTA, L. F. S.; SILVA, A. A.; PARAENSE, A.; BERTO, L.; COSTA, P. D. P.; COLOMBINI, E. L.; SIMOES, A. S.; GUDWIN, R. R. In: *Brain-Inspired Cognitive Architectures for Artificial Intelligence (BICA*AI 2022)*, 2022, Guadalajara. Proceedings of the Brain-Inspired Cognitive Architectures for Artificial Intelligence.
 
-### <a href="https://proceedings.science/sbsr-2019/papers/avaliacao-de-descritores-de-imagem-no-aprendizado-de-maquina-para-a-deteccao-de?lang=pt-br" target="_blank">Evaluation of Image Descriptors in Machine Learning for Detecting Common Bean Planting Failures</a>
+### 2019
+4. [Evaluation of Image Descriptors in Machine Learning for Detecting Common Bean Planting Failures](https://proceedings.science/sbsr-2019/papers/avaliacao-de-descritores-de-imagem-no-aprendizado-de-maquina-para-a-deteccao-de?lang=pt-br) - HARAKUCHI, G. M.; CALISSO, J. V. C.; COLETTA, L. F. S. In: *XIX Simpósio Brasileiro de Sensoriamento Remoto*, 2019, Santos/SP.
 
-**Topics:** `Image Descriptors` · `Machine Learning` · `UAV` · `Remote Sensing` · `Crop Monitoring` · `Agriculture`
+5. [Identificação de Padrões na Produção de Cana-de-Açúcar Utilizando K-Means e Análise Multivariada](http://dx.doi.org/10.1590/1809-4430) - HESPANHOL, P. F. P.; COLETTA, L. F. S.; CREMASCO, C. P.; GABRIEL FILHO, L. R. A. In: *XLVIII Congresso Brasileiro de Engenharia Agrícola (CONBEA 2019)*, 2019, Campinas. Energia na Agricultura (EAG), v. 1, p. 1-6.
 
-## 2017
+### 2018
+6. [Análise de Descritores de Imagens na Classificação de Folhas de Soja Visando o Diagnóstico de Doenças](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - PEREIRA, P. H. S.; OLIVEIRA, G. V.; YOKOO, R. S. S.; MATULOVIC, M.; COLETTA, L. F. S. In: *X Simpósio Nacional de Tecnologia em Agronegócio*, 2018, Presidente Prudente/SP.
 
-### <a href="https://doi.org/10.1109/TLA.2017.7867601" target="_blank">Artificial Neural Network for Classification and Analysis of Degraded Soils</a>
+### 2014
+7. [Combining Classification and Clustering for Tweet Sentiment Analysis](https://doi.org/10.1109/BRACIS.2014.46) - COLETTA, LUIZ FERNANDO SOMMAGGIO; SILVA, NADIA FELIX FELIPE DA; HRUSCHKA, EDUARDO RAUL; HRUSCHKA, ESTEVAM RAFAEL. In: *2014 Brazilian Conference on Intelligent Systems (BRACIS)*, 2014, Sao Paulo, p. 210-215.
 
-**Topics:** `Artificial Neural Networks` · `Soil Classification` · `Machine Learning` · `Land Recovery` · `Agriculture`
+### 2013
+8. [Towards the Use of Metaheuristics for Optimizing the Combination of Classifier and Cluster Ensembles](https://doi.org/10.1109/BRICS-CCI-CBIC.2013.86) - COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. In: *2013 BRICS Congress on Computational Intelligence & 11th Brazilian Congress on Computational Intelligence (BRICSCCI & CBIC)*, 2013, Ipojuca, p. 483-488.
 
-### <a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Use of Neural Networks to Monitor the Recovery of Degraded Areas</a>
+### 2011
+9. [Distributed Fuzzy Clustering with Automatic Detection of the Number of Clusters](https://doi.org/10.1007/978-3-642-19934-9_17) - VENDRAMIN, L.; CAMPELLO, R. J. G. B.; COLETTA, L. F. S.; HRUSCHKA, E. R. In: *International Symposium on Distributed Computing and Artificial Intelligence (DCAI 2011)*, 2011, Salamanca. Advances in Intelligent and Soft Computing, Heidelberg: Springer, v. 91, p. 133-140.
 
-**Topics:** `Artificial Neural Networks` · `Environmental Monitoring` · `Land Recovery` · `Agriculture`
+### 2010
+10. [Fuzzy Clustering-Based Filter](https://doi.org/10.1007/978-3-642-14055-6_42) - COLETTA, L. F. S.; HRUSCHKA, E. R.; COVÕES, T. F.; CAMPELLO, R. J. G. B. In: *International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems (IPMU 2010)*, 2010, Dortmund. Communications in Computer and Information Science (CCIS), Berlin: Springer, v. 80, p. 406-415.
 
-## 2016
+---
 
-### <a href="https://doi.org/10.1016/j.ins.2016.02.002" target="_blank">Using unsupervised information to improve semi-supervised tweet sentiment classification</a>
+## Other Publications
 
-**Topics:** `Sentiment Analysis` · `Semi-Supervised Learning` · `Unsupervised Learning` · `Twitter` · `NLP`
+### 2021
+1. [Identificação de Padrões em Culturas Através de Imagens Aéreas e Aprendizado Semissupervisionado](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - CANATO, V.; COLETTA, L. F. S. In: *XXXIII Congresso de Iniciação Científica da UNESP (CIC)*, 2021, Tupã. Anais do XXXIII Congresso de Iniciação Científica da UNESP.
 
-### <a href="https://doi.org/10.1145/2932708" target="_blank">A Survey and Comparative Study of Tweet Sentiment Analysis via Semi-Supervised Learning</a>
+2. [Análise de imagem utilizando Deep Learning para identificação de incêndios em trechos de solos](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - ALMEIDA, D. C.; COLETTA, L. F. S.; MATULOVIC, M. In: *XXXIII Congresso de Iniciação Científica da UNESP (CIC)*, 2021, Tupã. Anais do XXXIII Congresso de Iniciação Científica da UNESP.
 
-**Topics:** `Sentiment Analysis` · `Semi-Supervised Learning` · `Twitter` · `Natural Language Processing` · `Survey`
+### 2018
+3. [Inovação e Tecnologias de Informação e Comunicação (TIC) no Mercado de Startups do Agronegócio](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - DONDA, M. M. S.; SANTINI PIGATTO, G. A.; COLETTA, L. F. S.; SATOLO, E. In: *III Simpósio Internacional em Agronegócio e Desenvolvimento*, 2018, Tupã/SP.
 
-## 2015
+4. [Análise de Descritores de Imagens Coletadas por Veículos Aéreos Não Tripulados](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - CALISSO, J. V. C.; HARAKUCHI, G. M.; COLETTA, L. F. S. In: *XXX Congresso de Iniciação Científica da UNESP (CIC)*, 2018, Tupã. Anais do XXX Congresso de Iniciação Científica da UNESP.
 
-### <a href="https://doi.org/10.1504/IJBIC.2015.070120" target="_blank">A differential evolution algorithm to optimise the combination of classifier and cluster ensembles</a>
+5. [Análise de Descritores de Imagens para a Identificação de Patógenos em Cultivares](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - PEREIRA, P. H. S.; OLIVEIRA, G. V.; COLETTA, L. F. S. In: *XXX Congresso de Iniciação Científica da UNESP (CIC)*, 2018, Tupã. Anais do XXX Congresso de Iniciação Científica da UNESP.
 
-**Topics:** `Differential Evolution` · `Ensemble Learning` · `Classifier Ensembles` · `Cluster Ensembles` · `Optimization`
+### 2017
+6. [Tribology and Vibration Analysis Enhanced by a Machine Learning Technique: A Short Review](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - ALMEIDA, F. C. L.; COLETTA, L. F. S.; CAMPOS, M.; GONCALVES, A. C.; SILVA, E. F. M. S. In: *Probabilistic Dynamics Analysis and Lubricant Analysis to Improve Reliability of Gearboxes*, 2017, Ilha Solteira.
 
-### <a href="https://doi.org/10.3233/ICA-150485" target="_blank">Using metaheuristics to optimize the combination of classifier and cluster ensembles</a>
+### 2016
+1. [Abordagens para combinar classificadores e agrupadores em problemas de classificação](https://www.researchgate.net/publication/291356577_Abordagens_para_combinar_classificadores_e_agrupadores_em_problemas_de_classificacao) - January 2016. Doctoral Thesis.
 
-**Topics:** `Metaheuristics` · `Ensemble Learning` · `Classification` · `Clustering` · `Optimization`
+### 2011
+1. [Agrupamento de Dados Fuzzy Colaborativo](https://www.researchgate.net/publication/264534569_Agrupamento_de_Dados_Fuzzy_Colaborativo) - April 2011. Master's Thesis.
 
-## 2014
+### 2009
+1. [Análise de Estratégias de Seleção de Atributos Baseada em Agrupamento de Dados Fuzzy](https://www.researchgate.net/publication/264534625_Analise_de_Estrategias_de_Selecao_de_Atributos_Baseada_em_Agrupamento_de_Dados_Fuzzy) - October 2009. Undergraduate Research.
 
-### <a href="https://doi.org/10.1109/BRACIS.2014.46" target="_blank">Combining Classification and Clustering for Tweet Sentiment Analysis</a>
+2. [Um Método de Seleção de Atributos via Agrupamento Fuzzy para Problemas de Classificação](https://www.researchgate.net/publication/264534555_Um_Metodo_de_Selecao_de_Atributos_via_Agrupamento_Fuzzy_para_Problemas_de_Classificacao) - June 2009. Undergraduate Research.
 
-**Topics:** `Sentiment Analysis` · `Classification` · `Clustering` · `Twitter` · `NLP`
+---
 
-## 2013
 
-### <a href="https://doi.org/10.1109/BRICS-CCI-CBIC.2013.86" target="_blank">Towards the Use of Metaheuristics for Optimizing the Combination of Classifier and Cluster Ensembles</a>
+## Topic Index
 
-**Topics:** `Metaheuristics` · `Ensemble Learning` · `Classification` · `Clustering` · `Optimization`
+- Fuzzy Clustering
+- Collaborative/ Distributed Clustering
+- Feature Selection via Fuzzy Clustering
+- Ensemble Learning and Metaheuristics
+- Combining Classifier and Cluster Ensembles
+- Semi-Supervised Learning and Active Learning
+- NLP and Sentiment Analysis
+- Computer Vision and Remote Sensing
+- AI Applied to Agriculture
+- AgTech, Innovation, and Knowledge Management
+- Cognitive Agents and Cognitive Architectures
 
-## 2012
-
-### <a href="https://doi.org/10.1109/TFUZZ.2012.2185839" target="_blank">Collaborative Fuzzy Clustering Algorithms: Some Refinements and Design Guidelines</a>
-
-**Topics:** `Fuzzy Clustering` · `Collaborative Clustering` · `Distributed Data` · `Clustering Algorithms` · `Data Mining`
-
-## 2011
-
-### <a href="https://doi.org/10.1007/978-3-642-19934-9_17" target="_blank">Distributed Fuzzy Clustering with Automatic Detection of the Number of Clusters</a>
-
-**Topics:** `Fuzzy Clustering` · `Distributed Clustering` · `Automatic Model Selection` · `Consensus Clustering` · `Data Mining`
-
-## 2010
-
-### <a href="https://doi.org/10.1007/978-3-642-14055-6_42" target="_blank">Fuzzy Clustering-Based Filter</a>
-
-**Topics:** `Fuzzy Clustering` · `Feature Selection` · `Filter Methods` · `Data Mining` · `Machine Learning`
-
-## Fuzzy Clustering
-
-- **Fuzzy Clustering**
-- **Collaborative / Distributed Clustering**
-- **Consensus Clustering**
-- **Feature Selection**
-- **Automatic Cluster Number Detection**
-- **Data Mining**
-
-## Ensemble Learning and Metaheuristics
-
-- **Classifier Ensembles**
-- **Cluster Ensembles**
-- **Combination of Classification and Clustering**
-- **Differential Evolution**
-- **Metaheuristic Optimization**
-- **Evolutionary Algorithms**
-
-## Semi-Supervised Learning and Active Learning
-
-- **Semi-Supervised Learning**
-- **Active Learning**
-- **New Class Discovery**
-- **Novelty Detection**
-- **Unsupervised Information**
-
-## NLP and Sentiment Analysis
-
-- **Sentiment Analysis**
-- **Semi-Supervised NLP**
-- **Twitter / Short Text Classification**
-- **Classification + Clustering**
-
-## Computer Vision and Remote Sensing
-
-- **Image Classification**
-- **Image Descriptors**
-- **Novelty Detection**
-- **UAV / Drone Imagery**
-- **Remote Sensing**
-- **Deep Features**
-
-## AI Applied to Agriculture
-
-- **Precision / Digital Agriculture**
-- **Crop Monitoring**
-- **Eucalyptus**
-- **Soil Analysis and Recovery**
-- **Planting Failure Detection**
-- **Aflatoxin Detection**
-- **Agricultural Threat Detection**
-
-## AgTech, Innovation, and Knowledge Management
-
-- **AgTech / Agribusiness Startups**
-- **Innovation Management**
-- **Information and Communication Technologies**
-- **Knowledge Management**
-
-## Cognitive Agents and Cognitive Architectures
-
-- **Cognitive Agents**
-- **Cognitive Architectures**
-- **CST — Cognitive Systems Toolkit**
-- **Agent Visualization**
-- **Agent Debugging**
-- **Game Engine Integration**
+---
 
 ## Thematic Evolution
 
-```text
-Fuzzy Clustering
-        ↓
-Distributed / Collaborative Clustering
-        ↓
-Classifier + Cluster Ensembles
-        ↓
-Metaheuristic Optimization
-        ↓
-Semi-Supervised Learning
-        ↓
-Sentiment Analysis / NLP
-        ↓
-Computer Vision + Active Learning
-        ↓
-UAV + Agricultural AI
-        ↓
-Cognitive Agents / Cognitive Architectures
-```
+<div class="mermaid">
+flowchart TD
+    A["Fuzzy Clustering and Feature Selection (2009-2010)"] --> B["Distributed / Collaborative Clustering (2011-2012)"]
+    B --> C["Classifier + Cluster Ensembles (2013-2015)"]
+    B --> D["Metaheuristic Optimization (2013-2015)"]
+    C --> E["Semi-Supervised Learning (2014-2016)"]
+    D --> E
+    E --> F["Sentiment Analysis / NLP (2016)"]
+    E --> G["Computer Vision + Active Learning (2019-2022)"]
+    G --> H["UAV + Agricultural AI (2021-2022)"]
+    G --> I["Cognitive Agents / Architectures (2022-2023)"]
+</div>
