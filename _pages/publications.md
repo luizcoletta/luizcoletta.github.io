@@ -8,7 +8,7 @@ justify: true
 ## Journal Articles
 
 ### 2022
-1. [Novelty detection in UAV images to identify emerging threats in eucalyptus crops](https://doi.org/10.1016/j.compag.2022.106901) - COLETTA, LUIZ F.S.; DE ALMEIDA, DOUGLAS C.; SOUZA, JEFFERSON R.; MANZIONE, RODRIGO L. *Computers and Electronics in Agriculture*, v. 196, p. 106901. **Citations: 9|14**
+1. [Novelty detection in UAV images to identify emerging threats in eucalyptus crops](https://doi.org/10.1016/j.compag.2022.106901) - COLETTA, LUIZ F.S.; DE ALMEIDA, DOUGLAS C.; SOUZA, JEFFERSON R.; MANZIONE, RODRIGO L. *Computers and Electronics in Agriculture*, v. 196, p. 106901.
 
 2. [Visualization Tools for Monitoring and Debugging a Cognitive Architecture using CST](https://doi.org/10.1016/j.procs.2022.11.101) - MARQUES, ÁUREO; COLETTA, LUIZ; SILVA, ANDERSON; PARAENSE, ANDRÉ; BERTO, LETÍCIA; COSTA, PAULA; COLOMBINI, ESTHER; SIMÕES, ALEXANDRE; GUDWIN, RICARDO. *Procedia Computer Science*, v. 213, p. 528-535.
 
@@ -16,27 +16,27 @@ justify: true
 3. [Análise do Perfil Inovativo de Startups do Agronegócio](https://revista.unitins.br/index.php/humanidadeseinovacao/article/view/4587) - DONDA, M. M. S.; SANTINI PIGATTO, G. A.; SATOLO, E. G.; COLETTA, L. F. S. *Humanidades & Inovação*, v. 8, p. 231-250.
 
 ### 2019
-4. [Combining clustering and active learning for the detection and learning of new image classes](https://doi.org/10.1016/j.neucom.2019.04.070) - COLETTA, LUIZ F.S.; PONTI, MOACIR; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. *Neurocomputing*, v. 358, p. 150-165. **Citations: 28|33**
+4. [Combining clustering and active learning for the detection and learning of new image classes](https://doi.org/10.1016/j.neucom.2019.04.070) - COLETTA, LUIZ F.S.; PONTI, MOACIR; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. *Neurocomputing*, v. 358, p. 150-165.
 
-5. [Automatic Recovery Estimation of Degraded Soils by Artificial Neural Networks in Function of Chemical and Physical Attributes in Brazilian Savannah Soil](https://doi.org/10.1080/00103624.2019.1635144) - BONINI NETO, A.; BONINI, C. S. B.; REIS, A. R.; PIAZENTIN, J. C.; COLETTA, L. F. S.; PUTTI, F. F.; HEINRICHS, R.; MOREIRA, A. *Communications in Soil Science and Plant Analysis*, v. 1, p. 1-14. **Citations: 10|9**
+5. [Automatic Recovery Estimation of Degraded Soils by Artificial Neural Networks in Function of Chemical and Physical Attributes in Brazilian Savannah Soil](https://doi.org/10.1080/00103624.2019.1635144) - BONINI NETO, A.; BONINI, C. S. B.; REIS, A. R.; PIAZENTIN, J. C.; COLETTA, L. F. S.; PUTTI, F. F.; HEINRICHS, R.; MOREIRA, A. *Communications in Soil Science and Plant Analysis*, v. 1, p. 1-14.
 
 6. [Aflatoxin detection on direction of the 4.0 age at 3.0 costs](https://doi.org/10.31686/ijier.Vol7.Iss7.1615) - MATULOVIC, MARIANA; JOSÉ DE OLIVEIRA MORAIS, FLÁVIO; VACARO DE SOUZA, ANGELA; AALEXANDRE DE AMORIM, CLEBER; FERNANDO SOMMAGGIO COLETTA, LUIZ. *International Journal for Innovation Education and Research*, v. 7, p. 338-346.
 
 ### 2017
-7. [Artificial Neural Network for Classification and Analysis of Degraded Soils](https://doi.org/10.1109/TLA.2017.7867601) - BONINI NETO, A.; BONINI, C. S. B.; BISI, B. S.; COLETTA, L. F. S.; REIS, A. R. *Revista IEEE América Latina*, v. 15, p. 503-509. **Citations: 15|22**
+7. [Artificial Neural Network for Classification and Analysis of Degraded Soils](https://doi.org/10.1109/TLA.2017.7867601) - BONINI NETO, A.; BONINI, C. S. B.; BISI, B. S.; COLETTA, L. F. S.; REIS, A. R. *Revista IEEE América Latina*, v. 15, p. 503-509.
 
 ### 2016
-8. [Using unsupervised information to improve semi-supervised tweet sentiment classification](https://doi.org/10.1016/j.ins.2016.02.002) - DA SILVA, NÁDIA FELIX FELIPE; COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; HRUSCHKA JR., ESTEVAM R. *Information Sciences*, v. -, p. 1-18. **Citations: 47|68**
+8. [Using unsupervised information to improve semi-supervised tweet sentiment classification](https://doi.org/10.1016/j.ins.2016.02.002) - DA SILVA, NÁDIA FELIX FELIPE; COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; HRUSCHKA JR., ESTEVAM R. *Information Sciences*, v. -, p. 1-18.
 
-9. [A Survey and Comparative Study of Tweet Sentiment Analysis via Semi-Supervised Learning](https://doi.org/10.1145/2932708) - SILVA, NADIA FELIX F. DA; COLETTA, LUIZ F. S.; HRUSCHKA, EDUARDO R. *ACM Computing Surveys*, v. 49, p. 1-26. **Citations: 61|88**
+9. [A Survey and Comparative Study of Tweet Sentiment Analysis via Semi-Supervised Learning](https://doi.org/10.1145/2932708) - SILVA, NADIA FELIX F. DA; COLETTA, LUIZ F. S.; HRUSCHKA, EDUARDO R. *ACM Computing Surveys*, v. 49, p. 1-26.
 
 ### 2015
-10. [A differential evolution algorithm to optimise the combination of classifier and cluster ensembles](https://doi.org/10.1504/IJBIC.2015.070120) - COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO RAUL; ACHARYA, AYAN; GHOSH, JOYDEEP. *International Journal of Bio-Inspired Computation (Online)*, v. 7, p. 111-124. **Citations: 15|17**
+10. [A differential evolution algorithm to optimise the combination of classifier and cluster ensembles](https://doi.org/10.1504/IJBIC.2015.070120) - COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO RAUL; ACHARYA, AYAN; GHOSH, JOYDEEP. *International Journal of Bio-Inspired Computation (Online)*, v. 7, p. 111-124.
 
-11. [Using metaheuristics to optimize the combination of classifier and cluster ensembles](https://doi.org/10.3233/ICA-150485) - COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. *Integrated Computer-Aided Engineering*, v. 22, p. 229-242. **Citations: 29|31**
+11. [Using metaheuristics to optimize the combination of classifier and cluster ensembles](https://doi.org/10.3233/ICA-150485) - COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. *Integrated Computer-Aided Engineering*, v. 22, p. 229-242.
 
 ### 2012
-12. [Collaborative Fuzzy Clustering Algorithms: Some Refinements and Design Guidelines](https://doi.org/10.1109/TFUZZ.2012.2185839) - COLETTA, L. F. S.; VENDRAMIN, L.; HRUSCHKA, E. R.; CAMPELLO, R. J. G. B.; PEDRYCZ, W. *IEEE Transactions on Fuzzy Systems*, v. 20, p. 444-462. **Citations: 73|83**
+12. [Collaborative Fuzzy Clustering Algorithms: Some Refinements and Design Guidelines](https://doi.org/10.1109/TFUZZ.2012.2185839) - COLETTA, L. F. S.; VENDRAMIN, L.; HRUSCHKA, E. R.; CAMPELLO, R. J. G. B.; PEDRYCZ, W. *IEEE Transactions on Fuzzy Systems*, v. 20, p. 444-462.
 
 ---
 
@@ -108,8 +108,7 @@ justify: true
 
 ---
 
-
-## Topic Index
+## Topics
 
 - Fuzzy Clustering
 - Collaborative/ Distributed Clustering
