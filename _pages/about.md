@@ -29,3 +29,43 @@ For more details about my research and teaching, please visit my CV Lattes (in P
 <a href="https://orcid.org/0000-0002-4542-8591" target="_blank">ORCID</a> - 
 <a href="https://www.researchgate.net/profile/Luiz-Coletta" target="_blank">Research Gate</a> - 
 <a href="https://www.linkedin.com/in/luiz-coletta/" target="_blank">LinkedIn</a>
+
+## Thematic Evolution
+
+<div class="mermaid">
+flowchart TD
+    subgraph Phase1["🔬 Undergraduate & Graduate Research at USP (2009-2015)"]
+        direction TB
+        A["Fuzzy Clustering and Feature Selection (2009-2010)"] --> B["Distributed / Collaborative Clustering (2011-2012)"]
+        B --> C["Classifier + Cluster Ensembles (2013-2015)"]
+        B --> D["Metaheuristic Optimization (2013-2015)"]
+        C --> E["Semi-Supervised Learning (2014-2016)"]
+    end
+
+    subgraph Phase2["👨‍🏫 Assistant Professor at UNESP (2016-2022)"]
+        direction TB
+        F["Sentiment Analysis / NLP (2016)"]
+        F --> G["Computer Vision + Active Learning (2019-2022)"]
+        G --> H["UAV + Agricultural AI (2021-2022)"]
+        G --> I["Cognitive Agents / Architectures (2022-2023)"]
+    end
+
+    subgraph Phase3["💼 Senior Data Scientist at Dell (2022-Present)"]
+        direction TB
+        J["<div style='width: 280px'>• Anomaly & Novelty Detection<br/>• AI Reasoning & World Models<br/>• Continual & Federated Learning<br/>• Data Fusion & Edge AI<br/>• LLMs & RAG & Evals<br/>(Metrics & Reliability)</div>"]
+    end
+
+    Phase1 --> Phase2 --> Phase3
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('a[href^="http"]').forEach(function (link) {
+    if (!link.hasAttribute('target')) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+});
+</script>
