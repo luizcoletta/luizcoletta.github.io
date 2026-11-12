@@ -1151,3 +1151,24 @@ Modules - reusable parts of our design
 //@import "highlights";
 @import "darcula";
 @import "svg-icons";
+
+ol {
+  font-family: "SF Mono", "Menlo", "Monaco", "Consolas", "Courier New", monospace;
+  font-size: 14px;
+  line-height: 1.6;
+  list-style: none;
+}
+
+ol li {
+  margin-bottom: 8px;
+}
+
+.pub-description {
+  //font-family: "SF Mono", "Menlo", "Monaco", "Consolas", "Courier New", monospace;
+  //display: inline-block;
+  font-size: 14px;
+  line-height: 0.5;
+  //margin-top: 0.5em;
+}
+
+

@@ -8,103 +8,103 @@ justify: true
 ## Journal Articles
 
 ### 2022
-1. [Novelty detection in UAV images to identify emerging threats in eucalyptus crops](https://doi.org/10.1016/j.compag.2022.106901) - COLETTA, LUIZ F.S.; DE ALMEIDA, DOUGLAS C.; SOUZA, JEFFERSON R.; MANZIONE, RODRIGO L. *Computers and Electronics in Agriculture*, v. 196, p. 106901.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0168169922002186" target="_blank"> Novelty detection in UAV images to identify emerging threats in eucalyptus crops</a> - <span class="pub-description">COLETTA, LUIZ F.S.; DE ALMEIDA, DOUGLAS C.; SOUZA, JEFFERSON R.; MANZIONE, RODRIGO L. *Computers and Electronics in Agriculture*, v. 196, p. 106901.</span>
 
-2. [Visualization Tools for Monitoring and Debugging a Cognitive Architecture using CST](https://doi.org/10.1016/j.procs.2022.11.101) - MARQUES, ÁUREO; COLETTA, LUIZ; SILVA, ANDERSON; PARAENSE, ANDRÉ; BERTO, LETÍCIA; COSTA, PAULA; COLOMBINI, ESTHER; SIMÕES, ALEXANDRE; GUDWIN, RICARDO. *Procedia Computer Science*, v. 213, p. 528-535.
+<a href="https://doi.org/10.1016/j.procs.2022.11.101" target="_blank">Visualization Tools for Monitoring and Debugging a Cognitive Architecture using CST</a> - <span class="pub-description">MARQUES, ÁUREO; COLETTA, LUIZ; SILVA, ANDERSON; PARAENSE, ANDRÉ; BERTO, LETÍCIA; COSTA, PAULA; COLOMBINI, ESTHER; SIMÕES, ALEXANDRE; GUDWIN, RICARDO. *Procedia Computer Science*, v. 213, p. 528-535.</span>
 
 ### 2021
-3. [Análise do Perfil Inovativo de Startups do Agronegócio](https://revista.unitins.br/index.php/humanidadeseinovacao/article/view/4587) - DONDA, M. M. S.; SANTINI PIGATTO, G. A.; SATOLO, E. G.; COLETTA, L. F. S. *Humanidades & Inovação*, v. 8, p. 231-250.
+<a href="https://revista.unitins.br/humanidadeseinovacao/en/article/view/4587" target="_blank">Análise do Perfil Inovativo de Startups do Agronegócio</a> - <span class="pub-description">DONDA, M. M. S.; SANTINI PIGATTO, G. A.; SATOLO, E. G.; COLETTA, L. F. S. *Humanidades & Inovação*, v. 8, p. 231-250.</span>
 
 ### 2019
-4. [Combining clustering and active learning for the detection and learning of new image classes](https://doi.org/10.1016/j.neucom.2019.04.070) - COLETTA, LUIZ F.S.; PONTI, MOACIR; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. *Neurocomputing*, v. 358, p. 150-165.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231219306605" target="_blank">Combining clustering and active learning for the detection and learning of new image classes</a> - <span class="pub-description">COLETTA, LUIZ F.S.; PONTI, MOACIR; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. *Neurocomputing*, v. 358, p. 150-165.</span>
 
-5. [Automatic Recovery Estimation of Degraded Soils by Artificial Neural Networks in Function of Chemical and Physical Attributes in Brazilian Savannah Soil](https://doi.org/10.1080/00103624.2019.1635144) - BONINI NETO, A.; BONINI, C. S. B.; REIS, A. R.; PIAZENTIN, J. C.; COLETTA, L. F. S.; PUTTI, F. F.; HEINRICHS, R.; MOREIRA, A. *Communications in Soil Science and Plant Analysis*, v. 1, p. 1-14.
+<a href="https://www.tandfonline.com/doi/abs/10.1080/00103624.2019.1635144" target="_blank">Automatic Recovery Estimation of Degraded Soils by Artificial Neural Networks in Function of Chemical and Physical Attributes in Brazilian Savannah Soil</a> - <span class="pub-description">BONINI NETO, A.; BONINI, C. S. B.; REIS, A. R.; PIAZENTIN, J. C.; COLETTA, L. F. S.; PUTTI, F. F.; HEINRICHS, R.; MOREIRA, A. *Communications in Soil Science and Plant Analysis*, v. 1, p. 1-14.</span>
 
-6. [Aflatoxin detection on direction of the 4.0 age at 3.0 costs](https://doi.org/10.31686/ijier.Vol7.Iss7.1615) - MATULOVIC, MARIANA; JOSÉ DE OLIVEIRA MORAIS, FLÁVIO; VACARO DE SOUZA, ANGELA; AALEXANDRE DE AMORIM, CLEBER; FERNANDO SOMMAGGIO COLETTA, LUIZ. *International Journal for Innovation Education and Research*, v. 7, p. 338-346.
+<a href="https://doi.org/10.31686/ijier.Vol7.Iss7.1615" target="_blank">Aflatoxin detection on direction of the 4.0 age at 3.0 costs</a> - <span class="pub-description">MATULOVIC, MARIANA; JOSÉ DE OLIVEIRA MORAIS, FLÁVIO; VACARO DE SOUZA, ANGELA; AALEXANDRE DE AMORIM, CLEBER; FERNANDO SOMMAGGIO COLETTA, LUIZ. *International Journal for Innovation Education and Research*, v. 7, p. 338-346.</span>
 
 ### 2017
-7. [Artificial Neural Network for Classification and Analysis of Degraded Soils](https://doi.org/10.1109/TLA.2017.7867601) - BONINI NETO, A.; BONINI, C. S. B.; BISI, B. S.; COLETTA, L. F. S.; REIS, A. R. *Revista IEEE América Latina*, v. 15, p. 503-509.
+<a href="https://ieeexplore.ieee.org/abstract/document/7867601" target="_blank">Artificial Neural Network for Classification and Analysis of Degraded Soils</a> - <span class="pub-description">BONINI NETO, A.; BONINI, C. S. B.; BISI, B. S.; COLETTA, L. F. S.; REIS, A. R. *Revista IEEE América Latina*, v. 15, p. 503-509.</span>
 
 ### 2016
-8. [Using unsupervised information to improve semi-supervised tweet sentiment classification](https://doi.org/10.1016/j.ins.2016.02.002) - DA SILVA, NÁDIA FELIX FELIPE; COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; HRUSCHKA JR., ESTEVAM R. *Information Sciences*, v. -, p. 1-18.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025516300445" target="_blank">Using unsupervised information to improve semi-supervised tweet sentiment classification</a> - <span class="pub-description">DA SILVA, NÁDIA FELIX FELIPE; COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; HRUSCHKA JR., ESTEVAM R. *Information Sciences*, v. -, p. 1-18.</span>
 
-9. [A Survey and Comparative Study of Tweet Sentiment Analysis via Semi-Supervised Learning](https://doi.org/10.1145/2932708) - SILVA, NADIA FELIX F. DA; COLETTA, LUIZ F. S.; HRUSCHKA, EDUARDO R. *ACM Computing Surveys*, v. 49, p. 1-26.
+<a href="https://dl.acm.org/doi/abs/10.1145/2932708" target="_blank">A Survey and Comparative Study of Tweet Sentiment Analysis via Semi-Supervised Learning</a> - <span class="pub-description">SILVA, NADIA FELIX F. DA; COLETTA, LUIZ F. S.; HRUSCHKA, EDUARDO R. *ACM Computing Surveys*, v. 49, p. 1-26.</span>
 
 ### 2015
-10. [A differential evolution algorithm to optimise the combination of classifier and cluster ensembles](https://doi.org/10.1504/IJBIC.2015.070120) - COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO RAUL; ACHARYA, AYAN; GHOSH, JOYDEEP. *International Journal of Bio-Inspired Computation (Online)*, v. 7, p. 111-124.
+<a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJBIC.2015.069288" target="_blank">A differential evolution algorithm to optimise the combination of classifier and cluster ensembles</a> - <span class="pub-description">COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO RAUL; ACHARYA, AYAN; GHOSH, JOYDEEP. *International Journal of Bio-Inspired Computation (Online)*, v. 7, p. 111-124.</span>
 
-11. [Using metaheuristics to optimize the combination of classifier and cluster ensembles](https://doi.org/10.3233/ICA-150485) - COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. *Integrated Computer-Aided Engineering*, v. 22, p. 229-242.
+<a href="https://journals.sagepub.com/doi/abs/10.3233/ICA-150485" target="_blank">Using metaheuristics to optimize the combination of classifier and cluster ensembles</a> - <span class="pub-description">COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. *Integrated Computer-Aided Engineering*, v. 22, p. 229-242.</span>
 
 ### 2012
-12. [Collaborative Fuzzy Clustering Algorithms: Some Refinements and Design Guidelines](https://doi.org/10.1109/TFUZZ.2012.2185839) - COLETTA, L. F. S.; VENDRAMIN, L.; HRUSCHKA, E. R.; CAMPELLO, R. J. G. B.; PEDRYCZ, W. *IEEE Transactions on Fuzzy Systems*, v. 20, p. 444-462.
+<a href="https://ieeexplore.ieee.org/abstract/document/6074934" target="_blank">Collaborative Fuzzy Clustering Algorithms: Some Refinements and Design Guidelines</a> - <span class="pub-description">COLETTA, L. F. S.; VENDRAMIN, L.; HRUSCHKA, E. R.; CAMPELLO, R. J. G. B.; PEDRYCZ, W. *IEEE Transactions on Fuzzy Systems*, v. 20, p. 444-462.</span>
 
 ---
 
 ## Book Chapters
 
-1. [Use of Neural Networks to Monitor the Recovery of Degraded Areas](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - BONINI NETO, A.; BONINI, C. S. B.; COLETTA, L. F. S.; COSTA, N. R.; REIS, A. R. In: FERRARI PUTTI, F.; LEON CASEMIRO DA SILVA, A.; ALMEIDA GABRIEL FILHO, L. R. (Org.). *Tecnologias em Agricultura Sustentável*. 1ed. Tupã: Associação Amigos da Natureza da Alta Paulista - ANAP, 2017, v. 1, p. 47-65.
+<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Use of Neural Networks to Monitor the Recovery of Degraded Areas</a> - <span class="pub-description">BONINI NETO, A.; BONINI, C. S. B.; COLETTA, L. F. S.; COSTA, N. R.; REIS, A. R. In: FERRARI PUTTI, F.; LEON CASEMIRO DA SILVA, A.; ALMEIDA GABRIEL FILHO, L. R. (Org.). *Tecnologias em Agricultura Sustentável*. 1ed. Tupã: Associação Amigos da Natureza da Alta Paulista - ANAP, 2017, v. 1, p. 47-65.</span>
 
 ---
 
 ## Papers in Conference Proceedings
 
 ### 2023
-1. [An Episode Tracker for Cognitive Architectures](https://doi.org/10.1007/978-3-031-42392-1_1) - SAKABE, E. Y.; SILVA, A. A.; COLETTA, LUIZ F. S.; SIMOES, A. S.; COLOMBINI, E. L.; COSTA, P. D. P.; GUDWIN, R. R. In: *14th Annual Meeting of the BICA Society*, 2023. Biologically Inspired Cognitive Architectures 2023 - Proceedings of the 14th Annual Meeting of the BICA Society, v. 1130, p. 1-8.
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-50381-8_81" target="_blank">An Episode Tracker for Cognitive Architectures</a> - <span class="pub-description">SAKABE, E. Y.; SILVA, A. A.; COLETTA, LUIZ F. S.; SIMOES, A. S.; COLOMBINI, E. L.; COSTA, P. D. P.; GUDWIN, R. R. In: *14th Annual Meeting of the BICA Society*, 2023. Biologically Inspired Cognitive Architectures 2023 - Proceedings of the 14th Annual Meeting of the BICA Society, v. 1130, p. 1-8.</span>
 
 ### 2022
-2. [CST-Godot: Bridging the Gap Between Game Engines and Cognitive Agents](https://doi.org/10.1109/SBGAMES56371.2022.9961082) - MORAIS, G.; LORON, I.; SILVA, A. A.; COLETTA, L. F. S.; SIMOES, A. S.; GUDWIN, R. R.; COSTA, P. D. P.; COLOMBINI, E. L. In: *SBGames*, 2022, Natal. Proceedings SBGames.
+<a href="https://ieeexplore.ieee.org/abstract/document/9961082" target="_blank">CST-Godot: Bridging the Gap Between Game Engines and Cognitive Agents</a> - <span class="pub-description">MORAIS, G.; LORON, I.; SILVA, A. A.; COLETTA, L. F. S.; SIMOES, A. S.; GUDWIN, R. R.; COSTA, P. D. P.; COLOMBINI, E. L. In: *SBGames*, 2022, Natal. Proceedings SBGames.</span>
 
-3. [Visualization Tools for Monitoring and Debugging a Cognitive Architecture using CST](https://doi.org/10.1016/j.procs.2022.11.101) - MARQUES, A.; COLETTA, L. F. S.; SILVA, A. A.; PARAENSE, A.; BERTO, L.; COSTA, P. D. P.; COLOMBINI, E. L.; SIMOES, A. S.; GUDWIN, R. R. In: *Brain-Inspired Cognitive Architectures for Artificial Intelligence (BICA*AI 2022)*, 2022, Guadalajara. Proceedings of the Brain-Inspired Cognitive Architectures for Artificial Intelligence.
+<a href="hhttps://www.sciencedirect.com/science/article/pii/S1877050922017926" target="_blank">Visualization Tools for Monitoring and Debugging a Cognitive Architecture using CST</a> - <span class="pub-description">MARQUES, A.; COLETTA, L. F. S.; SILVA, A. A.; PARAENSE, A.; BERTO, L.; COSTA, P. D. P.; COLOMBINI, E. L.; SIMOES, A. S.; GUDWIN, R. R. In: *Brain-Inspired Cognitive Architectures for Artificial Intelligence (BICA*AI 2022)*, 2022, Guadalajara. Proceedings of the Brain-Inspired Cognitive Architectures for Artificial Intelligence.</span>
 
 ### 2019
-4. [Evaluation of Image Descriptors in Machine Learning for Detecting Common Bean Planting Failures](https://proceedings.science/sbsr-2019/papers/avaliacao-de-descritores-de-imagem-no-aprendizado-de-maquina-para-a-deteccao-de?lang=pt-br) - HARAKUCHI, G. M.; CALISSO, J. V. C.; COLETTA, L. F. S. In: *XIX Simpósio Brasileiro de Sensoriamento Remoto*, 2019, Santos/SP.
+<a href="https://proceedings.science/sbsr-2019/papers/avaliacao-de-descritores-de-imagem-no-aprendizado-de-maquina-para-a-deteccao-de?lang=pt-br" target="_blank">Evaluation of Image Descriptors in Machine Learning for Detecting Common Bean Planting Failures</a> - <span class="pub-description">HARAKUCHI, G. M.; CALISSO, J. V. C.; COLETTA, L. F. S. In: *XIX Simpósio Brasileiro de Sensoriamento Remoto*, 2019, Santos/SP.</span>
 
-5. [Identificação de Padrões na Produção de Cana-de-Açúcar Utilizando K-Means e Análise Multivariada](http://dx.doi.org/10.1590/1809-4430) - HESPANHOL, P. F. P.; COLETTA, L. F. S.; CREMASCO, C. P.; GABRIEL FILHO, L. R. A. In: *XLVIII Congresso Brasileiro de Engenharia Agrícola (CONBEA 2019)*, 2019, Campinas. Energia na Agricultura (EAG), v. 1, p. 1-6.
+<a href="http://dx.doi.org/10.1590/1809-4430" target="_blank">Identificação de Padrões na Produção de Cana-de-Açúcar Utilizando K-Means e Análise Multivariada</a> - <span class="pub-description">HESPANHOL, P. F. P.; COLETTA, L. F. S.; CREMASCO, C. P.; GABRIEL FILHO, L. R. A. In: *XLVIII Congresso Brasileiro de Engenharia Agrícola (CONBEA 2019)*, 2019, Campinas. Energia na Agricultura (EAG), v. 1, p. 1-6.</span>
 
 ### 2018
-6. [Análise de Descritores de Imagens na Classificação de Folhas de Soja Visando o Diagnóstico de Doenças](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - PEREIRA, P. H. S.; OLIVEIRA, G. V.; YOKOO, R. S. S.; MATULOVIC, M.; COLETTA, L. F. S. In: *X Simpósio Nacional de Tecnologia em Agronegócio*, 2018, Presidente Prudente/SP.
+<a href="https://www.researchgate.net/profile/Luiz-Coletta/publication/336434832_Analise_de_Descritores_de_Imagens_na_Classificacao_de_Folhas_de_Soja_Visando_o_Diagnostico_de_Doencas/links/5da07de545851553ff873a0f/Analise-de-Descritores-de-Imagens-na-Classificacao-de-Folhas-de-Soja-Visando-o-Diagnostico-de-Doencas.pdf" target="_blank">Análise de Descritores de Imagens na Classificação de Folhas de Soja Visando o Diagnóstico de Doenças</a> - <span class="pub-description">PEREIRA, P. H. S.; OLIVEIRA, G. V.; YOKOO, R. S. S.; MATULOVIC, M.; COLETTA, L. F. S. In: *X Simpósio Nacional de Tecnologia em Agronegócio*, 2018, Presidente Prudente/SP.</span>
 
 ### 2014
-7. [Combining Classification and Clustering for Tweet Sentiment Analysis](https://doi.org/10.1109/BRACIS.2014.46) - COLETTA, LUIZ FERNANDO SOMMAGGIO; SILVA, NADIA FELIX FELIPE DA; HRUSCHKA, EDUARDO RAUL; HRUSCHKA, ESTEVAM RAFAEL. In: *2014 Brazilian Conference on Intelligent Systems (BRACIS)*, 2014, Sao Paulo, p. 210-215.
+<a href="https://ieeexplore.ieee.org/abstract/document/6984832/" target="_blank">Combining Classification and Clustering for Tweet Sentiment Analysis</a> - <span class="pub-description">COLETTA, LUIZ FERNANDO SOMMAGGIO; SILVA, NADIA FELIX FELIPE DA; HRUSCHKA, EDUARDO RAUL; HRUSCHKA, ESTEVAM RAFAEL. In: *2014 Brazilian Conference on Intelligent Systems (BRACIS)*, 2014, Sao Paulo, p. 210-215.</span>
 
 ### 2013
-8. [Towards the Use of Metaheuristics for Optimizing the Combination of Classifier and Cluster Ensembles](https://doi.org/10.1109/BRICS-CCI-CBIC.2013.86) - COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. In: *2013 BRICS Congress on Computational Intelligence & 11th Brazilian Congress on Computational Intelligence (BRICSCCI & CBIC)*, 2013, Ipojuca, p. 483-488.
+<a href="https://ieeexplore.ieee.org/abstract/document/6855895" target="_blank">Towards the Use of Metaheuristics for Optimizing the Combination of Classifier and Cluster Ensembles</a> - <span class="pub-description">COLETTA, LUIZ F.S.; HRUSCHKA, EDUARDO R.; ACHARYA, AYAN; GHOSH, JOYDEEP. In: *2013 BRICS Congress on Computational Intelligence & 11th Brazilian Congress on Computational Intelligence (BRICSCCI & CBIC)*, 2013, Ipojuca, p. 483-488.</span>
 
 ### 2011
-9. [Distributed Fuzzy Clustering with Automatic Detection of the Number of Clusters](https://doi.org/10.1007/978-3-642-19934-9_17) - VENDRAMIN, L.; CAMPELLO, R. J. G. B.; COLETTA, L. F. S.; HRUSCHKA, E. R. In: *International Symposium on Distributed Computing and Artificial Intelligence (DCAI 2011)*, 2011, Salamanca. Advances in Intelligent and Soft Computing, Heidelberg: Springer, v. 91, p. 133-140.
+<a href="https://link.springer.com/chapter/10.1007/978-3-642-19934-9_17" target="_blank">Distributed Fuzzy Clustering with Automatic Detection of the Number of Clusters</a> - <span class="pub-description">VENDRAMIN, L.; CAMPELLO, R. J. G. B.; COLETTA, L. F. S.; HRUSCHKA, E. R. In: *International Symposium on Distributed Computing and Artificial Intelligence (DCAI 2011)*, 2011, Salamanca. Advances in Intelligent and Soft Computing, Heidelberg: Springer, v. 91, p. 133-140.</span>
 
 ### 2010
-10. [Fuzzy Clustering-Based Filter](https://doi.org/10.1007/978-3-642-14055-6_42) - COLETTA, L. F. S.; HRUSCHKA, E. R.; COVÕES, T. F.; CAMPELLO, R. J. G. B. In: *International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems (IPMU 2010)*, 2010, Dortmund. Communications in Computer and Information Science (CCIS), Berlin: Springer, v. 80, p. 406-415.
+<a href="https://link.springer.com/chapter/10.1007/978-3-642-14055-6_42" target="_blank">Fuzzy Clustering-Based Filter</a> - <span class="pub-description">COLETTA, L. F. S.; HRUSCHKA, E. R.; COVÕES, T. F.; CAMPELLO, R. J. G. B. In: *International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems (IPMU 2010)*, 2010, Dortmund. Communications in Computer and Information Science (CCIS), Berlin: Springer, v. 80, p. 406-415.</span>
 
 ---
 
 ## Other Publications
 
 ### 2021
-1. [Identificação de Padrões em Culturas Através de Imagens Aéreas e Aprendizado Semissupervisionado](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - CANATO, V.; COLETTA, L. F. S. In: *XXXIII Congresso de Iniciação Científica da UNESP (CIC)*, 2021, Tupã. Anais do XXXIII Congresso de Iniciação Científica da UNESP.
+<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Identificação de Padrões em Culturas Através de Imagens Aéreas e Aprendizado Semissupervisionado</a> - <span class="pub-description">CANATO, V.; COLETTA, L. F. S. In: *XXXIII Congresso de Iniciação Científica da UNESP (CIC)*, 2021, Tupã. Anais do XXXIII Congresso de Iniciação Científica da UNESP.</span>
 
-2. [Análise de imagem utilizando Deep Learning para identificação de incêndios em trechos de solos](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - ALMEIDA, D. C.; COLETTA, L. F. S.; MATULOVIC, M. In: *XXXIII Congresso de Iniciação Científica da UNESP (CIC)*, 2021, Tupã. Anais do XXXIII Congresso de Iniciação Científica da UNESP.
+<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Análise de imagem utilizando Deep Learning para identificação de incêndios em trechos de solos</a> - <span class="pub-description">ALMEIDA, D. C.; COLETTA, L. F. S.; MATULOVIC, M. In: *XXXIII Congresso de Iniciação Científica da UNESP (CIC)*, 2021, Tupã. Anais do XXXIII Congresso de Iniciação Científica da UNESP.</span>
 
 ### 2018
-3. [Inovação e Tecnologias de Informação e Comunicação (TIC) no Mercado de Startups do Agronegócio](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - DONDA, M. M. S.; SANTINI PIGATTO, G. A.; COLETTA, L. F. S.; SATOLO, E. In: *III Simpósio Internacional em Agronegócio e Desenvolvimento*, 2018, Tupã/SP.
+<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Inovação e Tecnologias de Informação e Comunicação (TIC) no Mercado de Startups do Agronegócio</a> - <span class="pub-description">DONDA, M. M. S.; SANTINI PIGATTO, G. A.; COLETTA, L. F. S.; SATOLO, E. In: *III Simpósio Internacional em Agronegócio e Desenvolvimento*, 2018, Tupã/SP.</span>
 
-4. [Análise de Descritores de Imagens Coletadas por Veículos Aéreos Não Tripulados](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - CALISSO, J. V. C.; HARAKUCHI, G. M.; COLETTA, L. F. S. In: *XXX Congresso de Iniciação Científica da UNESP (CIC)*, 2018, Tupã. Anais do XXX Congresso de Iniciação Científica da UNESP.
+<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Análise de Descritores de Imagens Coletadas por Veículos Aéreos Não Tripulados</a> - <span class="pub-description">CALISSO, J. V. C.; HARAKUCHI, G. M.; COLETTA, L. F. S. In: *XXX Congresso de Iniciação Científica da UNESP (CIC)*, 2018, Tupã. Anais do XXX Congresso de Iniciação Científica da UNESP.</span>
 
-5. [Análise de Descritores de Imagens para a Identificação de Patógenos em Cultivares](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - PEREIRA, P. H. S.; OLIVEIRA, G. V.; COLETTA, L. F. S. In: *XXX Congresso de Iniciação Científica da UNESP (CIC)*, 2018, Tupã. Anais do XXX Congresso de Iniciação Científica da UNESP.
+<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Análise de Descritores de Imagens para a Identificação de Patógenos em Cultivares</a> - <span class="pub-description">PEREIRA, P. H. S.; OLIVEIRA, G. V.; COLETTA, L. F. S. In: *XXX Congresso de Iniciação Científica da UNESP (CIC)*, 2018, Tupã. Anais do XXX Congresso de Iniciação Científica da UNESP.</span>
 
 ### 2017
-6. [Tribology and Vibration Analysis Enhanced by a Machine Learning Technique: A Short Review](https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta) - ALMEIDA, F. C. L.; COLETTA, L. F. S.; CAMPOS, M.; GONCALVES, A. C.; SILVA, E. F. M. S. In: *Probabilistic Dynamics Analysis and Lubricant Analysis to Improve Reliability of Gearboxes*, 2017, Ilha Solteira.
+<a href="" target="_blank">Tribology and Vibration Analysis Enhanced by a Machine Learning Technique: A Short Review</a> - <span class="pub-description">ALMEIDA, F. C. L.; COLETTA, L. F. S.; CAMPOS, M.; GONCALVES, A. C.; SILVA, E. F. M. S. In: *Probabilistic Dynamics Analysis and Lubricant Analysis to Improve Reliability of Gearboxes*, 2017, Ilha Solteira.</span>
 
 ### 2016
-1. [Abordagens para combinar classificadores e agrupadores em problemas de classificação](https://www.researchgate.net/publication/291356577_Abordagens_para_combinar_classificadores_e_agrupadores_em_problemas_de_classificacao) - January 2016. Doctoral Thesis.
+<a href="https://repositorio.usp.br/item/002750188" target="_blank">Abordagens para combinar classificadores e agrupadores em problemas de classificação</a> - <span class="pub-description">January 2016. Doctoral Thesis.</span>
 
 ### 2011
-1. [Agrupamento de Dados Fuzzy Colaborativo](https://www.researchgate.net/publication/264534569_Agrupamento_de_Dados_Fuzzy_Colaborativo) - April 2011. Master's Thesis.
+<a href="https://repositorio.usp.br/item/002191431" target="_blank">Agrupamento de Dados Fuzzy Colaborativo</a> - <span class="pub-description">April 2011. Master's Thesis.</span>
 
 ### 2009
-1. [Análise de Estratégias de Seleção de Atributos Baseada em Agrupamento de Dados Fuzzy](https://www.researchgate.net/publication/264534625_Analise_de_Estrategias_de_Selecao_de_Atributos_Baseada_em_Agrupamento_de_Dados_Fuzzy) - October 2009. Undergraduate Research.
+<a href="https://www.researchgate.net/profile/Luiz-Coletta/publication/264534625_Analise_de_Estrategias_de_Selecao_de_Atributos_Baseada_em_Agrupamento_de_Dados_Fuzzy/links/53e2f0810cf275a5fdda70af/Analise-de-Estrategias-de-Selecao-de-Atributos-Baseada-em-Agrupamento-de-Dados-Fuzzy.pdf" target="_blank">Análise de Estratégias de Seleção de Atributos Baseada em Agrupamento de Dados Fuzzy</a> - <span class="pub-description">October 2009. Undergraduate Research.</span>
 
-2. [Um Método de Seleção de Atributos via Agrupamento Fuzzy para Problemas de Classificação](https://www.researchgate.net/publication/264534555_Um_Metodo_de_Selecao_de_Atributos_via_Agrupamento_Fuzzy_para_Problemas_de_Classificacao) - June 2009. Undergraduate Research.
+<a href="https://www.researchgate.net/profile/Luiz-Coletta/publication/264534555_Um_Metodo_de_Selecao_de_Atributos_via_Agrupamento_Fuzzy_para_Problemas_de_Classificacao/links/53e2f1d30cf2b9d0d832c46c/Um-Metodo-de-Selecao-de-Atributos-via-Agrupamento-Fuzzy-para-Problemas-de-Classificacao.pdf" target="_blank">Um Método de Seleção de Atributos via Agrupamento Fuzzy para Problemas de Classificação</a> - <span class="pub-description">June 2009. Undergraduate Research.</span>
 
 ---
 
