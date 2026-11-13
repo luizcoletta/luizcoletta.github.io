@@ -88,20 +88,8 @@ justify: true
 
 ## Other Publications
 
-### 2021
-<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Identificação de Padrões em Culturas Através de Imagens Aéreas e Aprendizado Semissupervisionado</a> - <span class="pub-description">CANATO, V.; COLETTA, L. F. S. In: *XXXIII Congresso de Iniciação Científica da UNESP (CIC)*, 2021, Tupã. Anais do XXXIII Congresso de Iniciação Científica da UNESP.</span>
-
-<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Análise de imagem utilizando Deep Learning para identificação de incêndios em trechos de solos</a> - <span class="pub-description">ALMEIDA, D. C.; COLETTA, L. F. S.; MATULOVIC, M. In: *XXXIII Congresso de Iniciação Científica da UNESP (CIC)*, 2021, Tupã. Anais do XXXIII Congresso de Iniciação Científica da UNESP.</span>
-
-### 2018
-<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Inovação e Tecnologias de Informação e Comunicação (TIC) no Mercado de Startups do Agronegócio</a> - <span class="pub-description">DONDA, M. M. S.; SANTINI PIGATTO, G. A.; COLETTA, L. F. S.; SATOLO, E. In: *III Simpósio Internacional em Agronegócio e Desenvolvimento*, 2018, Tupã/SP.</span>
-
-<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Análise de Descritores de Imagens Coletadas por Veículos Aéreos Não Tripulados</a> - <span class="pub-description">CALISSO, J. V. C.; HARAKUCHI, G. M.; COLETTA, L. F. S. In: *XXX Congresso de Iniciação Científica da UNESP (CIC)*, 2018, Tupã. Anais do XXX Congresso de Iniciação Científica da UNESP.</span>
-
-<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Análise de Descritores de Imagens para a Identificação de Patógenos em Cultivares</a> - <span class="pub-description">PEREIRA, P. H. S.; OLIVEIRA, G. V.; COLETTA, L. F. S. In: *XXX Congresso de Iniciação Científica da UNESP (CIC)*, 2018, Tupã. Anais do XXX Congresso de Iniciação Científica da UNESP.</span>
-
 ### 2017
-<a href="" target="_blank">Tribology and Vibration Analysis Enhanced by a Machine Learning Technique: A Short Review</a> - <span class="pub-description">ALMEIDA, F. C. L.; COLETTA, L. F. S.; CAMPOS, M.; GONCALVES, A. C.; SILVA, E. F. M. S. In: *Probabilistic Dynamics Analysis and Lubricant Analysis to Improve Reliability of Gearboxes*, 2017, Ilha Solteira.</span>
+<a href="https://www.researchgate.net/publication/319463525_Tribology_and_Vibration_Analysis_Enhanced_by_a_Machine_Learning_Technique_A_Short_Review" target="_blank">Tribology and Vibration Analysis Enhanced by a Machine Learning Technique: A Short Review</a> - <span class="pub-description">ALMEIDA, F. C. L.; COLETTA, L. F. S.; CAMPOS, M.; GONCALVES, A. C.; SILVA, E. F. M. S. In: *Probabilistic Dynamics Analysis and Lubricant Analysis to Improve Reliability of Gearboxes*, 2017, Ilha Solteira.</span>
 
 ### 2016
 <a href="https://repositorio.usp.br/item/002750188" target="_blank">Abordagens para combinar classificadores e agrupadores em problemas de classificação</a> - <span class="pub-description">January 2016. Doctoral Thesis.</span>
