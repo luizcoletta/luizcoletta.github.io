@@ -42,11 +42,19 @@ justify: true
 
 ## Book Chapters
 
-<a href="https://www.escavador.com/sobre/7021998/luiz-fernando-sommaggio-coletta" target="_blank">Use of Neural Networks to Monitor the Recovery of Degraded Areas</a> - <span class="pub-description">BONINI NETO, A.; BONINI, C. S. B.; COLETTA, L. F. S.; COSTA, N. R.; REIS, A. R. In: FERRARI PUTTI, F.; LEON CASEMIRO DA SILVA, A.; ALMEIDA GABRIEL FILHO, L. R. (Org.). *Tecnologias em Agricultura Sustentável*. 1ed. Tupã: Associação Amigos da Natureza da Alta Paulista - ANAP, 2017, v. 1, p. 47-65.</span>
+<a href="https://www.estantedaanap.org/product-page/tecnologias-em-agricultura-sustent%C3%A1vel" target="_blank">Use of Neural Networks to Monitor the Recovery of Degraded Areas</a> - <span class="pub-description">BONINI NETO, A.; BONINI, C. S. B.; COLETTA, L. F. S.; COSTA, N. R.; REIS, A. R. In: FERRARI PUTTI, F.; LEON CASEMIRO DA SILVA, A.; ALMEIDA GABRIEL FILHO, L. R. (Org.). *Tecnologias em Agricultura Sustentável*. 1ed. Tupã: Associação Amigos da Natureza da Alta Paulista - ANAP, 2017, v. 1, p. 47-65.</span>
 
 ---
 
 ## Papers in Conference Proceedings
+
+### 2026
+
+<a href="https://sol.sbc.org.br/index.php/eniac/article/view/47040" target="_blank">A Comparison of Incremental Semantic Segmentation Algorithms for the Recognition of Agricultural Threats from UAV Images</a> - <span class="pub-description">ANTONETTI, L. O.; PEREIRA, G. F. D.; MANTOVANI, R. G.; COLETTA, L. F. S.; ROSSI, A. L. D. In: *Encontro Nacional de Inteligência Artificial e Computacional (ENIAC)*, 2026, p. 3155-3166.</span>
+
+### 2025
+
+<a href="https://sol.sbc.org.br/index.php/eniac/article/view/38753" target="_blank">Effectiveness of different backbones for the DeepLabV3+ network applied to semantic segmentation of agricultural crops with limited image data</a> - <span class="pub-description">PEREIRA, G. F. D.; COLETTA, L. F. S.; ROSSI, A. L. D. In: *XXII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC)*, 2025, p. 604-615.</span>
 
 ### 2023
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-50381-8_81" target="_blank">An Episode Tracker for Cognitive Architectures</a> - <span class="pub-description">SAKABE, E. Y.; SILVA, A. A.; COLETTA, LUIZ F. S.; SIMOES, A. S.; COLOMBINI, E. L.; COSTA, P. D. P.; GUDWIN, R. R. In: *14th Annual Meeting of the BICA Society*, 2023. Biologically Inspired Cognitive Architectures 2023 - Proceedings of the 14th Annual Meeting of the BICA Society, v. 1130, p. 1-8.</span>
@@ -54,12 +62,12 @@ justify: true
 ### 2022
 <a href="https://ieeexplore.ieee.org/abstract/document/9961082" target="_blank">CST-Godot: Bridging the Gap Between Game Engines and Cognitive Agents</a> - <span class="pub-description">MORAIS, G.; LORON, I.; SILVA, A. A.; COLETTA, L. F. S.; SIMOES, A. S.; GUDWIN, R. R.; COSTA, P. D. P.; COLOMBINI, E. L. In: *SBGames*, 2022, Natal. Proceedings SBGames.</span>
 
-<a href="hhttps://www.sciencedirect.com/science/article/pii/S1877050922017926" target="_blank">Visualization Tools for Monitoring and Debugging a Cognitive Architecture using CST</a> - <span class="pub-description">MARQUES, A.; COLETTA, L. F. S.; SILVA, A. A.; PARAENSE, A.; BERTO, L.; COSTA, P. D. P.; COLOMBINI, E. L.; SIMOES, A. S.; GUDWIN, R. R. In: *Brain-Inspired Cognitive Architectures for Artificial Intelligence (BICA*AI 2022)*, 2022, Guadalajara. Proceedings of the Brain-Inspired Cognitive Architectures for Artificial Intelligence.</span>
+<a href="https://www.sciencedirect.com/science/article/pii/S1877050922017926" target="_blank">Visualization Tools for Monitoring and Debugging a Cognitive Architecture using CST</a> - <span class="pub-description">MARQUES, A.; COLETTA, L. F. S.; SILVA, A. A.; PARAENSE, A.; BERTO, L.; COSTA, P. D. P.; COLOMBINI, E. L.; SIMOES, A. S.; GUDWIN, R. R. In: *Brain-Inspired Cognitive Architectures for Artificial Intelligence (BICA*AI 2022)*, 2022, Guadalajara. Proceedings of the Brain-Inspired Cognitive Architectures for Artificial Intelligence.</span>
 
 ### 2019
 <a href="https://proceedings.science/sbsr-2019/papers/avaliacao-de-descritores-de-imagem-no-aprendizado-de-maquina-para-a-deteccao-de?lang=pt-br" target="_blank">Evaluation of Image Descriptors in Machine Learning for Detecting Common Bean Planting Failures</a> - <span class="pub-description">HARAKUCHI, G. M.; CALISSO, J. V. C.; COLETTA, L. F. S. In: *XIX Simpósio Brasileiro de Sensoriamento Remoto*, 2019, Santos/SP.</span>
 
-<a href="http://dx.doi.org/10.1590/1809-4430" target="_blank">Identificação de Padrões na Produção de Cana-de-Açúcar Utilizando K-Means e Análise Multivariada</a> - <span class="pub-description">HESPANHOL, P. F. P.; COLETTA, L. F. S.; CREMASCO, C. P.; GABRIEL FILHO, L. R. A. In: *XLVIII Congresso Brasileiro de Engenharia Agrícola (CONBEA 2019)*, 2019, Campinas. Energia na Agricultura (EAG), v. 1, p. 1-6.</span>
+<a href="https://www.researchgate.net/publication/343236398_Identificacao_de_Padroes_na_Producao_de_Cana-De-Acucar_Utilizando_K-Means_e_Analise_Multivariada" target="_blank">Identificação de Padrões na Produção de Cana-de-Açúcar Utilizando K-Means e Análise Multivariada</a> - <span class="pub-description">HESPANHOL, P. F. P.; COLETTA, L. F. S.; CREMASCO, C. P.; GABRIEL FILHO, L. R. A. In: *XLVIII Congresso Brasileiro de Engenharia Agrícola (CONBEA 2019)*, 2019, Campinas. Energia na Agricultura (EAG), v. 1, p. 1-6.</span>
 
 ### 2018
 <a href="https://www.researchgate.net/profile/Luiz-Coletta/publication/336434832_Analise_de_Descritores_de_Imagens_na_Classificacao_de_Folhas_de_Soja_Visando_o_Diagnostico_de_Doencas/links/5da07de545851553ff873a0f/Analise-de-Descritores-de-Imagens-na-Classificacao-de-Folhas-de-Soja-Visando-o-Diagnostico-de-Doencas.pdf" target="_blank">Análise de Descritores de Imagens na Classificação de Folhas de Soja Visando o Diagnóstico de Doenças</a> - <span class="pub-description">PEREIRA, P. H. S.; OLIVEIRA, G. V.; YOKOO, R. S. S.; MATULOVIC, M.; COLETTA, L. F. S. In: *X Simpósio Nacional de Tecnologia em Agronegócio*, 2018, Presidente Prudente/SP.</span>
